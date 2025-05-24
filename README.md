@@ -25,4 +25,4 @@
 
  # 青龙面板
 
-直接把 glados_Qinglong.py 文件放到青龙里，环境变量同上
+直接把 glados_Qinglong.py 文件放到青龙里 ，环境变量同上
